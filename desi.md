@@ -39,7 +39,6 @@
 |---------|-------|----------|
 | [AIEngineering](https://www.youtube.com/c/AIEngineeringLife) | ML/DL Projects | English |
 | [Dhaval Patel](https://www.youtube.com/c/DhavalPatel) | ML/Interview Prep | English/Hindi |
-| [Campus X](https://www.youtube.com/c/CampusX-official) | DS/ML/DL | Hindi/English |
 | [iNeuron Intelligence](https://www.youtube.com/c/iNeuroniNtelligence) | AI/ML Courses | English/Hindi |
 
 ## 📅 Learning Schedule (Indian Context)
